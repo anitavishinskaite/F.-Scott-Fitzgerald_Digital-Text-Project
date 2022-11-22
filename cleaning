@@ -1,2 +1,0 @@
-with open("This Side of Paradise.txt", "r") as myfile:
-    pap_data = myfile.read().split("THIS SIDE OF PARADISE\n\nBy F. Scott Fitzgerald")[1].split("End of Project Gutenberg's This Side of Paradise, by F. Scott Fitzgerald")[0].strip()
