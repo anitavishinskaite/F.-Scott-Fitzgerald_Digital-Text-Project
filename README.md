@@ -1,0 +1,2 @@
+A descriptive analytics approach to 3 novels by F. Scott Fitzgerald - «This Side of Paradise», «The Beautiful and Damned» and «The Great Gatsby». Includes Vocabulary Comparison, Conversation Frequencies, Word Frequencies, Sentiment Analysis, Topic Modelling and Lexical Despersion Plot.
+I used Python, relying primarily on the pandas, re and nltk libraries. I used R language only to create Lexical Dispersion Plots. The majority of visualizations were generated using the plotly website.
